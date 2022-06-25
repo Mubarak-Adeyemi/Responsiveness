@@ -191,7 +191,7 @@ input:invalid:focus + span::before {
 ====================================================== */
 
 
-@media (max-width: 375px) {
+@media (max-width: 767px) {
     body {
         background-image: url(./images/bg-intro-mobile.png);
         height: auto;
